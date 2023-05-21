@@ -8,4 +8,3 @@ For more information on Git, see the
 [official Git documentation](https://git-scm.com/)
 
 
-Adding a line to commit without adding, since there is not a new file to add.
